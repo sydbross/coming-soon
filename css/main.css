@@ -42,7 +42,6 @@ html {
   color: #fff;
 }
 
-
 body {
 	min-height: 100vh;
 }
@@ -51,6 +50,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	background-color: #fff;
+	color: #262626;
 }
 
 p {
