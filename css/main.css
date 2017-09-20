@@ -50,9 +50,12 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	background-color: #fff;
-	color: #262626;
 }
 
 p {
 	margin-bottom: 1em;
+}
+
+.info {
+	color: #262626;
 }
